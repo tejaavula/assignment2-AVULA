@@ -13,3 +13,12 @@ assignment2-Avula
    5. Ginger-garlic paste 
 3. Come back home after picking the ingredients
 4. Start the process of cooking
+* Turn on the stove
+* Take a cooker
+   * Before that chop the ingredients that need to be chopped(like onions,chicken)
+   * Put all the ingredients in the pan
+   * Roast for a while
+   * wash the rice and add in the cooker
+   * pour the water
+   * keep the lid and close the cooker
+* Biriyani is ready
