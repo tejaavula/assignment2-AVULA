@@ -43,3 +43,22 @@ assignment2-Avula
 >Good friends, good books, and a sleepy conscience this is the ideal life -*Mark Twain*
 
 >Life is what happens to us while we are making other plans - *Allen Saunders* 
+---------------------------------------------
+# Code Fencing
+
+>Genie is a modern, general-purpose high-level programming language in development since 2008. It was designed as an alternative, simpler and cleaner dialect for the Vala compiler, while preserving the same functionality of the Vala language. Genie uses the same compiler and libraries as Vala; the two can indeed be used alongside each other.The differences are only syntactic
+
+[Genie](https://en.wikipedia.org/wiki/Genie_(programming_language))
+
+```
+class Sample
+
+    def run()
+        stdout.printf("Hello, world! \n ")
+
+init
+    var sample = new Sample()
+    sample.run() 
+```
+
+[code source](https://en.wikipedia.org/wiki/Genie_(programming_language))
