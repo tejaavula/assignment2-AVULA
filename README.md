@@ -22,3 +22,7 @@ assignment2-Avula
    * pour the water
    * keep the lid and close the cooker
 * Biriyani is ready
+
+![chicken-biryani-recipe](https://user-images.githubusercontent.com/77764342/106365359-a84e9380-62fa-11eb-9e54-98c113407c7f.jpg)
+
+[About me](AboutMe.md)
