@@ -37,3 +37,9 @@ assignment2-Avula
 | Shadab    | 9AM-12PM   |   1000          |
 | Tulip's   | 12Am-9PM   |   700           |
 | Bawarachi | 9AM-9PM    |   500           |
+
+----------------------------
+# Pithy Quotes
+>Good friends, good books, and a sleepy conscience this is the ideal life -*Mark Twain*
+
+>Life is what happens to us while we are making other plans - *Allen Saunders* 
