@@ -26,3 +26,14 @@ assignment2-Avula
 ![chicken-biryani-recipe](https://user-images.githubusercontent.com/77764342/106365359-a84e9380-62fa-11eb-9e54-98c113407c7f.jpg)
 
 [About me](AboutMe.md)
+----------------------
+# Top 5 Restaurents for Biriyani
+> I would reccomend these Restaurents as I have visited there and these are some of the locations that you can look in to , To get best biriyanis in Hyderabad 
+
+| Location  |  Timings   |   Price(Rupees) |
+|---: | ---: | ---: |              
+| Paradise  | 11AM-11PM  |   2000          |
+| Chicha's  | 10AM-9PM   |   1500          |
+| Shadab    | 9AM-12PM   |   1000          |
+| Tulip's   | 12Am-9PM   |   700           |
+| Bawarachi | 9AM-9PM    |   500           |
