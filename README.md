@@ -25,6 +25,8 @@ assignment2-Avula
 
 ![chicken-biryani-recipe](https://user-images.githubusercontent.com/77764342/106365359-a84e9380-62fa-11eb-9e54-98c113407c7f.jpg)
 
+![biriyani3](https://user-images.githubusercontent.com/77764342/106392685-916e7680-63b8-11eb-8d62-60a030b5a9de.jpg)
+
 [About me](AboutMe.md)
 ----------------------
 # Top 5 Restaurents for Biriyani
@@ -37,6 +39,10 @@ assignment2-Avula
 | Shadab    | 9AM-12PM   |   1000          |
 | Tulip's   | 12Am-9PM   |   700           |
 | Bawarachi | 9AM-9PM    |   500           |
+
+![biriyani](https://user-images.githubusercontent.com/77764342/106392625-5e2be780-63b8-11eb-8cab-d7ad826a7569.jpg)
+
+![biriyani2](https://user-images.githubusercontent.com/77764342/106392666-7dc31000-63b8-11eb-8bea-e8245b2cc2cf.jpg)
 
 ----------------------------
 # Pithy Quotes
